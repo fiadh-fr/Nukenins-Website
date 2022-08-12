@@ -110,7 +110,6 @@ function selectSong() {
 
   if (isPlay) song.play();
 }
-
 function run() {
   changeSliderContext();
   selectSong();
